@@ -1,4 +1,3 @@
-#test
 from scapy.all import *
 import matplotlib.pyplot as plt
 import argparse
